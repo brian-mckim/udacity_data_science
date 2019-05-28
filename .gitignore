@@ -1,3 +1,4 @@
 **/logs
 *.pth
 **/.ipynb_checkpoints
+**/flowers
